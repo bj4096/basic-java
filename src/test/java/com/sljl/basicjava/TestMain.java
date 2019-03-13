@@ -1,4 +1,4 @@
-﻿package com.sljl.basicjava;
+package com.sljl.basicjava;
 
 /**
  * @author L.Y.F
